@@ -16,3 +16,5 @@ Web UI automation framework using Python, Selenium, Pytest, and GitHub Actions C
 - Headless Chrome
 
 ## Run Tests
+pip install -r requirements.txt
+pytest -v
