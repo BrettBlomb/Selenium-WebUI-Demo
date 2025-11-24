@@ -19,4 +19,4 @@ Web UI automation framework using Python, Selenium, Pytest, and GitHub Actions C
 pip install -r requirements.txt
 pytest -v
 
-Test 1 Results:
+Test 2 Results:
